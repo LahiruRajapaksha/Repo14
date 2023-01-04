@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.0.2"
+  export = ["ronin_invoices_to_quickbooks_online_invoices"]
+  icon = "docs/icon.png"
+  keywords = ["Type/ManualTrigger","Category/Integration"]
+  name = "ronin_invoices_to_quickbooks_online_invoices"
+  org = "lahirurajapaksha"
+  version = "1.0.0"
+
